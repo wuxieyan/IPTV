@@ -203,7 +203,6 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=L
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 ,凤凰卫视
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=40&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-
 #EXTINF:-1 ,CCTV-4K超高清
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 ,CCTV-2财经
@@ -222,7 +221,6 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=L
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=35&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 ,CCTV-10科教
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=36&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-
 #EXTINF:-1 ,湖南卫视
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=1&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 ,上海东方卫视
