@@ -27,14 +27,17 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227220/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227103/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,CGTN
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225813/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
 #EXTINF:-1 ,LYTV
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 #EXTINF:-1 ,LYTV
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,大湾区卫视
 http://219.137.29.20:808/hls/118/index.m3u8
 #EXTINF:-1 ,大湾区卫视z
 http://111.12.110.7:6610/PLTV/77777777/224/3221225748/index.m3u8?
+
 #EXTINF:-1 ,翡翠台
 http://live.cooltv.top/tv/good.php?id=1350_4500
 #EXTINF:-1 ,凤凰香港
@@ -45,34 +48,40 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 ,凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=4
+
 #EXTINF:-1 ,凤凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 ,凤凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,凤凰中文
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
 #EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
 http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+
+#EXTINF:-1 ,广东 ‖ 清新综合台 (1080p)
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+
 #EXTINF:-1 ,广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 ,广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
@@ -85,6 +94,7 @@ http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
 #EXTINF:-1 ,广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+
 #EXTINF:-1 ,广东公共
 http://live.cooltv.top/tv/gd.php?id=gdgg
 #EXTINF:-1 ,广东公共
@@ -94,9 +104,11 @@ http://219.137.29.20:808/hls/102/index.m3u8
 #EXTINF:-1 ,广东国际
 http://live.cooltv.top/tv/gd.php?id=gdgj
 #EXTINF:-1 ,广东嘉佳卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-#EXTINF:-1 ,广东嘉佳卡通
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
+
+#EXTINF:-1 ,广东嘉佳卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+
 #EXTINF:-1 ,广东经济
 http://ct.whosayssowhat.top:4022/udp/239.77.0.85:5146
 #EXTINF:-1 ,广东经济超清
@@ -105,12 +117,20 @@ http://ct.whosayssowhat.top:4022/udp/239.77.0.167:5146
 http://live.cooltv.top/tv/gd.php?id=jjkj
 #EXTINF:-1 ,广东南方卫视
 mitv://generationnexxxt.com:19806/9d3cacc5ca5d4c2fa444b4ab624806cb
+
 #EXTINF:-1 ,广东南方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+
 #EXTINF:-1 ,广东少儿
 http://live.cooltv.top/tv/gd.php?id=gdse
 #EXTINF:-1 ,广东少儿
 http://ct.whosayssowhat.top:4022/udp/239.77.0.250:5146
+
+#EXTINF:-1 ,广东体育
+http://fxhack.f3322.org:8000/udp/239.77.0.112:5146?世界杯WorldCup
+#EXTINF:-1 ,广东体育
+http://fxhack.f3322.org:8000/udp/239.77.0.168:5146?世界杯WorldCup
+
 #EXTINF:-1 ,广东体育
 mitv://generationnexxxt.com:19806/e9e2075a549c4f98802b4c029614289d
 #EXTINF:-1 ,广东体育
@@ -121,10 +141,6 @@ http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
 #EXTINF:-1 ,广东体育
 http://113.117.74.17:808/hls/1/index.m3u8
-#EXTINF:-1 ,广东体育
-http://fxhack.f3322.org:8000/udp/239.77.0.112:5146?世界杯WorldCup
-#EXTINF:-1 ,广东体育
-http://fxhack.f3322.org:8000/udp/239.77.0.168:5146?世界杯WorldCup
 #EXTINF:-1 ,广东体育
 http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?世界杯WorldCup
 #EXTINF:-1 ,广东体育
@@ -157,18 +173,18 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f//index.m3u8
 #EXTINF:-1 ,广东卫视高清
 http://113.117.74.8:808/hls/40/index.m3u8
+
 #EXTINF:-1 ,广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
+
 #EXTINF:-1 ,广东新闻
 http://live.cooltv.top/tv/gd.php?id=gdxw
+
 #EXTINF:-1 ,广东新闻
 http://ct.whosayssowhat.top:4022/udp/239.77.0.173:5146
 #EXTINF:-1 ,广东新闻
 http://219.137.29.20:808/hls/113/index.m3u8
-#EXTINF:-1 ,广东音乐广播
-http://ls.qingting.fm/live/1260.m3u8
-#EXTINF:-1 ,广东音乐之声
-http://live.cooltv.top/tv/ytradio.php?id=489
+
 #EXTINF:-1 ,广东影视
 mitv://generationnexxxt.com:19806/00f9795a39fe455a8aada20e2b6e7cfc
 #EXTINF:-1 ,广东影视
@@ -181,8 +197,10 @@ http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
 http://183.11.239.32:808/hls/8/index.m3u8
 #EXTINF:-1 ,广东影视
 http://219.137.29.20:808/hls/24/index.m3u8
+
 #EXTINF:-1 ,广东珠江
 http://live.cooltv.top/tv/good.php?id=gdzhujiangHD_7500
+
 #EXTINF:-1 ,广东珠江
 http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
 #EXTINF:-1 ,广东珠江
@@ -199,68 +217,84 @@ http://ct.whosayssowhat.top:4022/udp/239.77.0.232:5146
 http://219.137.29.20:808/hls/211/index.m3u8
 #EXTINF:-1 ,广东综艺UHD
 http://ct.whosayssowhat.top:4022/udp/239.77.0.244:5146
+
 #EXTINF:-1 ,广州法治
 http://live.cooltv.top/tv/guangzhou.php?id=gzfz
+
 #EXTINF:-1 ,广州法治
 http://ct.whosayssowhat.top:4022/udp/239.253.43.74:5146
 #EXTINF:-1 ,广州竞赛
+http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
+
+#EXTINF:-1 ,广州竞赛
 http://live.cooltv.top/tv/guangzhou.php?id=gzjs
 #EXTINF:-1 ,广州竞赛
-http://ct.whosayssowhat.top:4022/udp/239.253.43.75:5146
-#EXTINF:-1 ,广州竞赛
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
+
 #EXTINF:-1 ,广州南国都市
 http://live.cooltv.top/tv/guangzhou.php?id=gzsh
+
 #EXTINF:-1 ,广州新闻
 http://live.cooltv.top/tv/guangzhou.php?id=gzxw
-#EXTINF:-1 ,广州新闻
-http://ct.whosayssowhat.top:4022/udp/239.253.43.72:5146
 #EXTINF:-1 ,广州新闻
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw
 #EXTINF:-1 ,广州新闻
 https://justsometime.gztv.com/sec/jingsai.m3u8
+
+#EXTINF:-1 ,广州新闻
+http://ct.whosayssowhat.top:4022/udp/239.253.43.72:5146
+
 #EXTINF:-1 ,广州影视
 http://live.cooltv.top/tv/guangzhou.php?id=gzys
+
 #EXTINF:-1 ,广州影视
 http://ct.whosayssowhat.top:4022/udp/239.253.43.73:5146
+
 #EXTINF:-1 ,广州综合
 http://live.cooltv.top/tv/guangzhou.php?id=gzzh
 #EXTINF:-1 ,广州综合
-http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146
-#EXTINF:-1 ,广州综合
 http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 ,廣東南方衛視
+
+#EXTINF:-1 ,广州综合*
+http://ct.whosayssowhat.top:4022/udp/239.253.43.71:5146
+
+
+#EXTINF:-1 ,廣東南方衛視*
 http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/nanfang_twn/playlist.m3u8
-#EXTINF:-1 ,江门公共
+#EXTINF:-1 ,江门公共*
 http://ct.whosayssowhat.top:4022/udp/239.77.0.202:5146
-#EXTINF:-1 ,江门教育
+#EXTINF:-1 ,江门教育*
 http://ct.whosayssowhat.top:4022/udp/239.77.0.203:5146
-#EXTINF:-1 ,江门综合
+#EXTINF:-1 ,江门综合*
 http://ct.whosayssowhat.top:4022/udp/239.77.0.201:5146
+
 #EXTINF:-1 ,明珠台
 http://live.cooltv.top/tv/good.php?id=1351_4500
-#EXTINF:-1 ,南方购物
+
+#EXTINF:-1 ,南方购物*
 http://ct.whosayssowhat.top:4022/udp/239.77.0.19:5146
-#EXTINF:-1 ,南方购物
+#EXTINF:-1 ,南方购物*
 http://113.117.74.8:808/hls/123/index.m3u8
+
 #EXTINF:-1 ,南方卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 ,南方卫视*
 http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
 #EXTINF:-1 ,南方卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 ,南方卫视*
 http://ct.whosayssowhat.top:4022/udp/239.77.0.215:5146
 #EXTINF:-1 ,南方卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 ,南方卫视*
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 ,南方卫视*
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000304/index.m3u8?
-#EXTINF:-1 ,南方卫视[751x576]
+#EXTINF:-1 ,南方卫视[751x576]*
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 ,南方卫视[751x576]
+#EXTINF:-1 ,南方卫视[751x576]*
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
 #EXTINF:-1 ,南方卫视高清
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000021/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 ,深圳财经生活
@@ -279,15 +313,16 @@ http://live.cooltv.top/tv/sztv.php?id=sztyjk
 http://live.cooltv.top/tv/sztv.php?id=szyd
 #EXTINF:-1 ,深圳娱乐
 http://live.cooltv.top/tv/sztv.php?id=szyl
-#EXTINF:-1 ,香港卫视
+
+#EXTINF:-1 ,香港卫视?key
 http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=30
-#EXTINF:-1 ,香港卫视
+#EXTINF:-1 ,香港卫视*
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-#EXTINF:-1 ,香港卫视
+#EXTINF:-1 ,香港卫视*
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-#EXTINF:-1 ,香港卫视
+#EXTINF:-1 ,香港卫视*
 http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-#EXTINF:-1 ,香港卫视文旅
+#EXTINF:-1 ,香港卫视文旅?
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 ,香港卫视文旅台
+#EXTINF:-1 ,香港卫视文旅台*
 http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
