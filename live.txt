@@ -25,7 +25,7 @@ TVB翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76d
 翡翠台1080,http://113.64.147.69:808/hls/67/index.m3u8
 翡翠台1080,http://r.jdshipin.com/qClQf
 翡翠台1080,http://23.237.10.66:16106
-翡翠台1080,#http://r.jdshipin.com/62WM7#
+翡翠台1080,#http://r.jdshipin.com/62WM7
 翡翠台1080,http://r.jdshipin.com/qrfbg
 翡翠台720P,http://live.cooltv.top/tv/good.php?id=1350_4500
 翡翠台720P,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
@@ -65,7 +65,7 @@ TVB翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76d
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港卫视,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,#http://r.jdshipin.com/62WM7
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
