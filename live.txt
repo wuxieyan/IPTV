@@ -152,6 +152,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森洋片,http://120.84.96.113:808/hls/33/index.m3u8
+东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
