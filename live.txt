@@ -69,4 +69,4 @@ TVB J2,https://j3.lhlh.app/mv.m3u8
 美国中文电视,https://jpts.sinovision.net/livestream.m3u8
 美国中文电视,http://pull.dayuntongzhou.com/live/tztv.m3u8
 美国中文电视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-
+NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
