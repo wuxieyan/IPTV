@@ -50,3 +50,8 @@ TVB翡翠台,http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76d
 01华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 02华丽台,mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-78912fb8-fd7e-487e-bf73-816914649281.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://61.10.2.152/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
