@@ -113,9 +113,6 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
-好消息电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/1.m3u8?$2M1920x1080
-IPTV3+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
-IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226342/index.m3u8
 
 
 卫视在线IPV6,#genre#
