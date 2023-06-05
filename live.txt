@@ -58,6 +58,15 @@ TVB翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5758e851-5827-4fec-3328-e360f1da0ac8.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰咨询,http://kkwk999.top:80/fh.php?id=fhzx
+凤凰咨询,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰咨询,http://162.19.247.76:22222/live/fenghuangzhixun/230528165406937.ts
+凤凰中文,http://dispatch.fengshows.cn:8484/live/0701pcc72.flv?txSecret=ecce3d04896e532a629055cc10631b31&txTime=647da055
+凤凰中文,http://qctv.fengshows.cn:80/live/0701pcc72.flv?txSecret=ecce3d04896e532a629055cc10631b31&txTime=647da055
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰香港台,http://dispatch.fengshows.cn:8484/live/0701phk72.flv?txSecret=c72ca1f7a0f4696456498d4f02f2a608&txTime=647d9e23
+凤凰香港台,http://162.19.247.76:22222/live/fenghuangxianggang/230528165406937.ts
+凤凰香港台,http://162.19.247.76:22222/live/fenghuangxianggang/230528165406938.ts
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7599ed8e-608f-4c7a-a666-830e71d63e5d.m3u8
