@@ -52,10 +52,6 @@ TVB翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 凤凰香港,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-78912fb8-fd7e-487e-bf73-816914649281.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-769bce89-62c3-433c-9321-e5dda3c52a01.m3u8
-有线新闻（停播）,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻（停播）,http://61.10.2.152/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线新闻（停播）,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻（停播）,http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5758e851-5827-4fec-3328-e360f1da0ac8.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
@@ -68,10 +64,12 @@ TVB翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7599ed8e-608f-4c7a-a666-830e71d63e5d.m3u8
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8
 东森新闻台,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVB J2,https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
 TVB J2,https://j3.lhlh.app/mv.m3u8
