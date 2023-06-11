@@ -50,6 +50,7 @@ TVB翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 01华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 02华丽台,mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-80a74a86-749d-44a1-962f-3e439e7a2ef4.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 凤凰资讯,http://kkwk999.top:80/fh.php?id=fhzx
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
