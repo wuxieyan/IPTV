@@ -29,7 +29,8 @@ TVB翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 翡翠台1080,http://23.237.10.66:16106
 翡翠台1080,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
 翡翠台1080,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
-翡翠台1080,*http://r.jdshipin.com/62WM7
+翡翠台1080,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5934f385-c221-41fc-af36-81bc794e83f1.m3u8?by=yeslivetv_com
+翡翠台1080,http://r.jdshipin.com/62WM7
 翡翠台720P,http://r.jdshipin.com/n90gt
 翡翠台720P,http://live.cooltv.top/tv/good.php?id=1350_4500
 翡翠台HD,http://radius.8866.org:800/hls/80/index.m3u8
@@ -65,6 +66,7 @@ ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7599ed8e-608f-4c7a-a666-830e71d63e5d.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
+东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-27389d3f-2d57-45da-b3d7-638673fc42c3.m3u8?by=yeslivetv_com
 东森新闻台,https://epg.pw/stream/7872a236f1393aa913844a130912aa8891f4bbf96841157ed4605778bc0bc62f.m3u8
 东森新闻台,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
