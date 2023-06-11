@@ -62,6 +62,7 @@ RHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/strea
 RHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+ViuTV,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-47fb32ed-d22d-42a0-b31b-eed8ffac63e1.m3u8?by=yeslivetv_com
 ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7599ed8e-608f-4c7a-a666-830e71d63e5d.m3u8
 东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8
