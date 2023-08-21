@@ -23,6 +23,9 @@
 翡翠台(失效),https://pull-l3-cny.douyincdn.com/live/YesLiveTV-49292e88-ca27-42ee-8692-02ac7bb0a6e0.m3u8
 翡翠台(失效),https://pull-l3-cny.douyincdn.com/live/YesLiveTV-e932bb3e-588b-4df1-b997-2cf55a1aa6b1.m3u8
 翡翠台(失效),https://live.astradamy.com/tvbfc/index.m3u8
+翡翠台(备),http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+翡翠台(备),http://162.19.247.76:22222/live/tvbfc/index.m3u8
+翡翠台(备),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台1080,http://r.jdshipin.com/qClQf
 翡翠台1080,http://r.jdshipin.com/qrfbg
 翡翠台1080,http://r.jdshipin.com/62WM7
