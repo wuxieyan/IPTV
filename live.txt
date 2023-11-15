@@ -35,6 +35,7 @@
 翡翠台1080,http://113.64.147.69:808/hls/67/index.m3u8
 翡翠台1080,http://23.237.10.66:16106
 翡翠台1080,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台1080,https://pi.0472.org/tv/fct.php?auth=202311030915
 翡翠台720P,http://r.jdshipin.com/n90gt
 翡翠台720P,http://live.cooltv.top/tv/good.php?id=1350_4500
 翡翠台720P,http://radius.8866.org:800/hls/80/index.m3u8
