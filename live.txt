@@ -419,6 +419,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 生活时尚,http://[2409:8087:4400:20:1:a0f:11:9]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 东方影视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
@@ -475,10 +476,3 @@ NewTV系列,#genre#
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
-4K频道,#genre#
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
-纯享超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
-河南4K试验,http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-爱看导视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
