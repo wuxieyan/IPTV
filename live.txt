@@ -12,22 +12,21 @@
 翡翠台(失效),http://113.117.74.8:808/hls/67/index.m3u8
 翡翠台(失效),http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 翡翠台(失效),http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
-翡翠台(备),http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-翡翠台(备),http://162.19.247.76:22222/live/tvbfc/index.m3u8
-翡翠台(备),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-
-翡翠台(备),http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-翡翠台(备),http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台(备),http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台(备),http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台(备),http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
-翡翠台(备),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-翡翠台(备),http://113.117.74.12:8081/hls/25/index.m3u8
-翡翠台(备),http://66.181.39.224/ml.php?id=jade_twn
-翡翠台(备),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台(失效),http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
+翡翠台(失效),http://162.19.247.76:22222/live/tvbfc/index.m3u8
+翡翠台(失效),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台(失效),http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
+翡翠台(失效),http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台(失效),http://107.167.12.58:27347/livehttpplay?channel_id=20127
+翡翠台(失效),http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台(失效),http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
+翡翠台(失效),http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+翡翠台(失效),http://113.117.74.12:8081/hls/25/index.m3u8
+翡翠台(失效),http://66.181.39.224/ml.php?id=jade_twn
 
 翡翠台(mitv),mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 翡翠台(mitv),mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
+翡翠台1080,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 
 翡翠台1080,http://r.jdshipin.com/qClQf
 翡翠台1080,http://cdn.jdshipin.com:8880/gdfc1080p.php
@@ -60,51 +59,25 @@
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-80a74a86-749d-44a1-962f-3e439e7a2ef4.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231022/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-147342b9-9ef0-41dc-95cb-3527b9b4edee.m3u8?by=yeslivetv_com
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221231003/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?/TVOD/.smil
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-凤凰资讯,http://kkwk999.top:80/fh.php?id=fhzx
-凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-4763d188-b5b8-4bf0-88c4-f55fc8e97b09.m3u8?by=yeslivetv_com
-凤凰资讯,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-4763d188-b5b8-4bf0-88c4-f55fc8e97b28.m3u8?by=yeslivetv_com
 
 RHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-ViuTV,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-47fb32ed-d22d-42a0-b31b-eed8ffac63e1.m3u8?by=yeslivetv_com
-ViuTV6,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-251195f1-6a9e-498a-8d34-d0f76e021df2.m3u8?by=yeslivetv_com
-HOY资讯台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-29751518-9645-429f-b569-6cbdfaeb01b8.m3u8?by=yeslivetv_com
-HOY TV开电视,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-616ed7aa-7f64-4b96-9c32-70d30de0c952.m3u8?by=yeslivetv_com
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7599ed8e-608f-4c7a-a666-830e71d63e5d.m3u8
-东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-7768f5ae-8001-40ab-bc91-5c6e97abb7f8.m3u8?by=yeslivetv_com
-东森新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-27389d3f-2d57-45da-b3d7-638673fc42c3.m3u8?by=yeslivetv_com
-东森新闻台,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-TVB J2,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-28da13b9-7e84-4e4d-9a82-32b872513d14.m3u8?by=yeslivetv_com
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
-美国中文电视,http://pull.dayuntongzhou.com/live/tztv.m3u8
 美国中文电视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
