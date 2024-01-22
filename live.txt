@@ -26,7 +26,9 @@
 
 翡翠台(mitv),mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 翡翠台(mitv),mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
-翡翠台1080,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台,http://113.86.206.78:9999/tsfile/live/1055_1.m3u8
+
 翡翠台1080,http://r.jdshipin.com/qClQf
 翡翠台1080,http://cdn.jdshipin.com:8880/gdfc1080p.php
 翡翠台1080,http://r.jdshipin.com/qrfbg
@@ -58,7 +60,6 @@
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-80a74a86-749d-44a1-962f-3e439e7a2ef4.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
 RHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RHK31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
@@ -69,6 +70,23 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 美国中文电视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+大湾区卫视,http://27.45.234.161:2024/hls/18/index.m3u8
+大湾区卫视,http://110.72.35.15:8088/tsfile/live/1052_1.m3u8
+大湾区卫视,http://110.72.35.236:8088/tsfile/live/1052_1.m3u8
+大湾区卫视,http://219.135.208.218:8083/tsfile/live/1003_1.m3u8
+大湾区卫视,http://113.86.206.78:9999/tsfile/live/1002_1.m3u8
+大湾区卫视,http://113.86.205.10:8090/hls/109/index.m3u8
+大湾区卫视,http://171.108.239.23:8181/tsfile/live/1028_1.m3u8
+大湾区卫视,http://110.72.37.154:8088/tsfile/live/1052_1.m3u8
+大湾区卫视,http://qwas.eatuo.com:9901udp://@224.3.2.23:5000
+广东珠江,http://110.72.35.15:8088/tsfile/live/1106_1.m3u8
+广东珠江,http://110.72.35.236:8088/tsfile/live/1106_1.m3u8
+广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
+广东珠江,http://113.86.206.78:9999/tsfile/live/1005_1.m3u8
+广东珠江,http://113.86.205.10:8090/hls/105/index.m3u8
+广东珠江,http://171.108.239.23:8181/tsfile/live/1010_1.m3u8
+广东珠江,http://110.72.37.154:8088/tsfile/live/1106_1.m3u8
+广东珠江,http://qwas.eatuo.com:9901udp://@224.3.2.2:5000
 
 mitv台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
