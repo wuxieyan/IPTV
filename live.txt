@@ -82,16 +82,18 @@ NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkw
 大湾区卫视,http://171.108.239.23:8181/tsfile/live/1028_1.m3u8
 大湾区卫视,http://110.72.37.154:8088/tsfile/live/1052_1.m3u8
 大湾区卫视,http://qwas.eatuo.com:9901udp://@224.3.2.23:5000
+
+广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
+广东珠江,http://113.86.205.10:8090/hls/105/index.m3u8
 广东珠江,http://110.72.35.15:8088/tsfile/live/1106_1.m3u8
 广东珠江,http://110.72.35.236:8088/tsfile/live/1106_1.m3u8
-广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
 广东珠江,http://113.86.206.78:9999/tsfile/live/1005_1.m3u8
-广东珠江,http://113.86.205.10:8090/hls/105/index.m3u8
 广东珠江,http://171.108.239.23:8181/tsfile/live/1010_1.m3u8
 广东珠江,http://110.72.37.154:8088/tsfile/live/1106_1.m3u8
 广东珠江,http://qwas.eatuo.com:9901udp://@224.3.2.2:5000
-广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+
 
 广东珠江高清,http://125.90.231.56:4023/udp/239.77.0.1:5146
 广东珠江高清,http://119.131.240.27:8089/hls/2/index.m3u8
@@ -108,7 +110,7 @@ NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkw
 广东珠江高清,http://113.65.9.177:4014/udp/239.77.0.1:5146
 广东珠江高清,http://119.131.240.240:8089/hls/2/index.m3u8
 
-iHOT爱都市,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+iHOT,#genre#
 iHOT爱经典,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 iHOT爱浪漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 iHOT爱体育,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
@@ -129,6 +131,8 @@ iHOT爱赛车,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 iHOT爱喜剧,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 iHOT爱幼教,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+iHOT爱都市,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+
 iHOT爱极限,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
 iHOT爱家庭,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
 iHOT爱江湖,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
@@ -139,6 +143,7 @@ iHOT爱时尚,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 iHOT爱世界,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
 iHOT爱探索,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
 iHOT爱娱乐,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
