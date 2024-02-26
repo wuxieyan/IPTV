@@ -26,6 +26,7 @@
 
 翡翠台(mitv),mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 翡翠台(mitv),mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
+翡翠台(mitv),mitv://147.135.39.171:9906/65a4e8350007683646f034780a032936
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台,http://113.86.206.78:9999/tsfile/live/1055_1.m3u8
 
@@ -56,6 +57,7 @@
 翡翠台astro,http://23.237.10.66:16410
 翡翠台astro,http://113.64.147.180:808/hls/67/index.m3u8
 华丽台,mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
+华丽台,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-80a74a86-749d-44a1-962f-3e439e7a2ef4.m3u8
