@@ -75,6 +75,24 @@ NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkw
 
 香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
+广东,#genre#
+广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
+广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
+台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
+
 大湾区卫视,http://27.45.234.161:2024/hls/18/index.m3u8
 大湾区卫视,http://110.72.35.15:8088/tsfile/live/1052_1.m3u8
 大湾区卫视,http://110.72.35.236:8088/tsfile/live/1052_1.m3u8
