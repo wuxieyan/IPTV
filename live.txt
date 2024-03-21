@@ -103,6 +103,7 @@ NHK WORLD JAPAN/RTHK 31,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkw
 大湾区卫视,http://110.72.37.154:8088/tsfile/live/1052_1.m3u8
 大湾区卫视,http://qwas.eatuo.com:9901udp://@224.3.2.23:5000
 
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
