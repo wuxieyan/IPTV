@@ -30,6 +30,27 @@
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台,http://113.86.206.78:9999/tsfile/live/1055_1.m3u8
 
+翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+翡翠台,https://fake-stream.livednow.com/mdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
+翡翠台,http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
+翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
+翡翠台,http://abcnew.site:8880/3ca7123n11/ewfr543ds/71040
+翡翠台,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts
+翡翠台,https://epg.pw/stream/d060c5d1cc0bf154a0b238e05247a360582c95d53a959d4a85e46c4ea2f117b1.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+翡翠台,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+翡翠台,https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+
+
 翡翠台1080,http://r.jdshipin.com/qClQf
 翡翠台1080,http://cdn.jdshipin.com:8880/gdfc1080p.php
 翡翠台1080,http://r.jdshipin.com/qrfbg
