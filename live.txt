@@ -119,7 +119,7 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 
-测试频道,#genre#
+
 纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -128,6 +128,10 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+
+测试频道,#genre#
+
 
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 纯享4K,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
