@@ -605,6 +605,11 @@ NewTV精品综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 
 
 央视在线IPV6,#genre#
+2409:8087:7000:20::4
+CCTV-1-test,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+CCTV-1-test,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+CCTV-1-test,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221226231/1.m3u8
+
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
