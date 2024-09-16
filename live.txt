@@ -88,6 +88,7 @@
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 翡翠台,http://113.83.152.56:8182/bynumber/1
 
+
 华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
