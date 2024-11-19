@@ -82,6 +82,14 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
+翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153505
+翡翠台,https://pi.0472.org/tv/fct.php?auth=230918
+翡翠台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571187
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
